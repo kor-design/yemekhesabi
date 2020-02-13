@@ -53,7 +53,7 @@ namespace YemekMenusu
                         break;
                 }
             } while (secim != '6');
-            Console.WriteLine("Toplam hesabınız {0} TL",toplam);
+            Console.WriteLine("Toplam hesabınız {0} TL\nYine Bekleriz..",toplam);
             Console.Read();
         }
     }
