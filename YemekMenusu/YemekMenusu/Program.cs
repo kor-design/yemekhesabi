@@ -27,18 +27,23 @@ namespace YemekMenusu
                 {
                     case '1':
                         toplam += 12.50;
+                        Console.WriteLine("Şu anki hesap {0} TL", toplam);
                         break;
                     case '2':
                         toplam += 14.50;
+                        Console.WriteLine("Şu anki hesap {0} TL", toplam);
                         break;
                     case '3':
                         toplam += 11.50;
+                        Console.WriteLine("Şu anki hesap {0} TL", toplam);
                         break;
                     case '4':
                         toplam += 8.50;
+                        Console.WriteLine("Şu anki hesap {0} TL", toplam);
                         break;
                     case '5':
                         toplam += 6.50;
+                        Console.WriteLine("Şu anki hesap {0} TL", toplam);
                         break;
                     case '6':
                         Console.WriteLine("Alışverişiniz tamamlanmıştır.");
