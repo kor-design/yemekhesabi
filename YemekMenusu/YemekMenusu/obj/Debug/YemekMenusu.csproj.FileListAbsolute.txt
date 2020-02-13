@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\yemekhesabi\YemekMenusu\YemekMenusu\bin\Debug\YemekMenusu.exe.config
+C:\Users\Windows10\Documents\GitHub\yemekhesabi\YemekMenusu\YemekMenusu\bin\Debug\YemekMenusu.exe
+C:\Users\Windows10\Documents\GitHub\yemekhesabi\YemekMenusu\YemekMenusu\bin\Debug\YemekMenusu.pdb
+C:\Users\Windows10\Documents\GitHub\yemekhesabi\YemekMenusu\YemekMenusu\obj\Debug\YemekMenusu.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\yemekhesabi\YemekMenusu\YemekMenusu\obj\Debug\YemekMenusu.exe
+C:\Users\Windows10\Documents\GitHub\yemekhesabi\YemekMenusu\YemekMenusu\obj\Debug\YemekMenusu.pdb
